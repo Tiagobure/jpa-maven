@@ -1,5 +1,5 @@
 # Java jpa
-## Java Persistence API (JPA) é a especificação padrão da plataforma Java EE (pacote javax.persistence) paramapeamento objeto-relacional e persistência de dados.
+## Java Persistence API (JPA) é a especificação padrão da plataforma Java EE (pacote javax.persistence) para mapeamento objeto-relacional e persistência de dados.
 JPA é apenas uma especificação (JSR 338):
 
 - http://download.oracle.com/otn-pub/jcp/persistence-2_1-fr-eval-spec/JavaPersistence.pdf
